@@ -15,7 +15,7 @@ function ListImages() {
     AWS.config.update({
       apiVersion: "2006-03-01",
       accessKeyId: "YOUR KEY ID",
-      secretAccessKey: "YOUR SECRETE KEY",
+      secretAccessKey: "YOUR SECRET KEY",
       region: process.env.REGION,
       signatureVersion: 'v4',
     });
