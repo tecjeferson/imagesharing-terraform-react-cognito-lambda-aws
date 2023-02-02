@@ -31,13 +31,18 @@ $ git clone https://github.com/tecjeferson/imagesharing-terraform-react-cognito-
 
 # Go into the repository
 $ cd imagesharing-terraform-react-cognito-lambda-aws
+$ cd frontend
 
 # Install dependencies
 $ npm install
 
 # Run the app
 $ npx next start
+
+#To run terraform at /backend I suggest read the official documentation to make sure what you are doing and prevent incidents or hight AWS costs.
 ```
+
+
 
 
 ## License
