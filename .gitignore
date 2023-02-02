@@ -1,0 +1,9 @@
+/challenge/*
+/backend/.terraform/*
+/backend/.parameter.sh
+/backend/terraform.lock.hcl
+/backend/terraform.tfstate.backup
+/frontend/.next/*
+/frontend/.vscode/*
+/frontend/.node_modules/*
+/.gitlab-ci.yml
